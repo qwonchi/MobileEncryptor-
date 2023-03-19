@@ -57,7 +57,7 @@ class MobileApp(MDApp):
         )
 
         self.encr_img_path_input = TextInput(
-            text=r"C:\Users\Ник\Desktop\ENCODE % DECODE\boy.jpg"
+            text=r""
         )
 
         self.decode_img_path_input = TextInput(
